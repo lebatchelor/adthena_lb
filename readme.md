@@ -1,4 +1,4 @@
-# Adthena Test
+# Adthena Repo
 
 ## Project Description
 This project uses a Support Vector Machine (Linear_SVC) model to categorize search terms into industry categories.
@@ -13,7 +13,7 @@ pyenv install 3.6.2
 
 ##### 2. Clone this repo in to your local directory. You can do this from github or use the following code:
 ```
-git clone git@github.com:lebatchelor/adthena_lb_test.git
+git clone git@github.com:lebatchelor/adthena_lb.git
 ```
 
 ##### 3. Create a python virtual environment
