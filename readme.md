@@ -18,7 +18,7 @@ git clone git@github.com:lebatchelor/adthena_lb.git
 
 ##### 3. Create a python virtual environment
 ```
-cd ~adthena-lb-test
+cd ~adthena_lb
 virtualenv -p ~/.pyenv/versions/3.6.2/bin/python --no-site-packages py
 ```
 
