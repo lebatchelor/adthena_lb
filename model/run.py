@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
         if len(processed_predict_data.columns) > 2:
             print(processed_predict_data.columns)
-            y_test = processed_predict_data[1]
+            y_test = processed_predict_data[2]
             get_test_stats(y_test, y_pred)
             print(f"Test stats complete in {(time.time() - t0)}")
         else:
